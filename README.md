@@ -1,7 +1,7 @@
 # Event Manager Project
 
 ## Installation and run
-#0,1. Change folders mane to Finalpjr
+0,1. Change folders mane to Finalpjr
 1. Open XAMPP manager and run servers (MySQL, Apache)
 2. Paste extracted files inside root directory for XAMPP xampp/htdocs
 
